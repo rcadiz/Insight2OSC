@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7383F846017D65AD9EF489F02835C4DBEC9CE4A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7383F846017D65AD9EF489F02835C4DBEC9CE4A9" : 9223372036854775807,
+    "E51E06339530ACB9B0C8B47AC79FE59F6110E2B4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1B549C2F-493B-424B-B4DA-8FA30B63051E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7383F846017D65AD9EF489F02835C4DBEC9CE4A9" : "Insight2OSC\/",
+    "E51E06339530ACB9B0C8B47AC79FE59F6110E2B4" : "..\/..\/Tools\/Emotiv\/community-sdk"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Insight2OSC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "osx\/Insight2OSC.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rcadiz\/Insight2OSC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7383F846017D65AD9EF489F02835C4DBEC9CE4A9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Emotiv\/community-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E51E06339530ACB9B0C8B47AC79FE59F6110E2B4"
+    }
+  ]
+}

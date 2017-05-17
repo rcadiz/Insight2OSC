@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "650D943643BF855AC654FD0EFF0E73CFFAADA1EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E51E06339530ACB9B0C8B47AC79FE59F6110E2B4" : 0,
+    "650D943643BF855AC654FD0EFF0E73CFFAADA1EC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7E97C7BC-2C2A-4BDB-A64F-350F0B7CB29B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E51E06339530ACB9B0C8B47AC79FE59F6110E2B4" : "..\/..\/Tools\/Emotiv\/community-sdk",
+    "650D943643BF855AC654FD0EFF0E73CFFAADA1EC" : "Insight2OSC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Insight2OSC",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Insight2OSC.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:adapar\/bcmi_eibasicreader.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "650D943643BF855AC654FD0EFF0E73CFFAADA1EC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Emotiv\/community-sdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E51E06339530ACB9B0C8B47AC79FE59F6110E2B4"
+    }
+  ]
+}
